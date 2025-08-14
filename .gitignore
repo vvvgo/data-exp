@@ -223,6 +223,3 @@ parser/parser.log
 .env
 config.env
 
-# Downloaded files cache
-downloaded_pdfs/
-*.pdf
